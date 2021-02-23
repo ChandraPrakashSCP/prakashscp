@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poiret One', cursive;
+    background-color: #e7e6e1;
+    margin: 0;
+    text-align: center;
+    
+    
+
+}
+
+.head{
+    background-color:#323232;
+    width: 20%;
+    border-radius: 10px;
+    margin: 10px auto 0px auto;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.head:hover{
+    padding: 15px;
+    transition-duration: 0.1s;
+    transition-delay: 0.1s;
+}
+.head a{
+    color: #e7e6e1;
+    text-decoration: none;
+    font-weight: bold;
+    margin: auto 10px auto 10px;
+    
+}
+.head a:hover{
+    
+    opacity: 0.5;
+}
+
+.top-container {
+    background-color: #f7f6e7;
+    align-items: center;
+    width: 60%;
+    margin: 50px auto 50px auto;
+    border-radius: 15px 50px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.img1 {
+    width: 100%;
+    border-radius: 15px 50px;
+
+}
+
+
+
+
+hr{
+    border:5px solid #393e46;
+    border-style: dotted;
+    width: 50px;
+    border-bottom: none;
+}
+
+.middle-container{
+    background-color: #f7f6e7;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 50px auto 50px auto;
+    border-radius: 15px;
+   
+}
+
+.middle-container img{
+
+    width:90px;
+    margin: auto 10px auto 10px;
+    padding: 20px;
+
+    
+}
+
+
+.bottom-container{
+    background-color: #f7f6e7;
+    width: 25%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 50px auto 0px auto;
+    border-radius: 15px;
+    padding: 5px;
+    
+}
+.bottom-container img{
+    width:30px;
+    margin: auto 10px auto 10px;
+    
+}
